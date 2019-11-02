@@ -1,0 +1,13 @@
+template
+build
+.idea
+
+# package directories
+*node_modules
+*.lock
+
+# Terraform directories
+*.terraform*
+*.zip
+*.tfstate*
+*.tfstate.*

@@ -1,0 +1,25 @@
+{
+  "name": "terraform-function-compute-demo",
+  "version": "1.0.0",
+  "description": "Alibaba Cloud Function Compute Terraform Deployment Practice",
+  "main": "handler.js",
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "alibaba cloud",
+    "alicloud",
+    "function compute",
+    "serverless",
+    "terraform",
+    "infrastructure as code"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "dotenv": "latest",
+    "mocha": "^6.2.0"
+  }
+}
